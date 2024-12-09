@@ -1,6 +1,6 @@
 {
   "name": "com.glitchenzo.nugetforunity",
-  "version": "0.1.0",
+  "version": "4.1.1",
   "displayName": "NuGet For Unity",
   "description": "This package allow using of NuGet packages inside Unity",
   "unity": "2017.1",
